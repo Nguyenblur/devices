@@ -1,0 +1,65 @@
+{
+  "name": "devices",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Hi To La Nguyen Blue",
+  "main": "main.js",
+  "scripts": {
+    "start": "node index",
+    "login": "node login",
+    "test": "node --trace-warnings --use_strict --async-stack-traces test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nguyenblur/devices.git"
+  },
+  "author": "Nguyen Blue",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@miraipr0ject/assets": "",
+    "facebook-chat-api": "github:Nguyenblur/facebook-chat-api",
+    "axios": "",
+    "bluebird": "^3.7.2",
+    "body-parser": "",
+    "caesar-salad": "",
+    "canvas": "^2.11.2",
+    "chalk": "^4.1.2",
+    "cheerio": "^0.22.0",
+    "child_process": "",
+    "eval": "^0.1.6",
+    "figlet": "",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^4.0.0",
+    "fs-extra": "^11.2.0",
+    "gifencoder": "^2.0.1",
+    "image-downloader": "^4.3.0",
+    "imgur": "^2.4.2",
+    "jimp": "",
+    "minimist": "",
+    "moment-timezone": "",
+    "ms": "",
+    "node": "^18.19.1",
+    "node-superfetch": "^0.3.3",
+    "npmlog": "",
+    "path": "",
+    "pm2": "^5.1.0",
+    "readline": "",
+    "request": "",
+    "semver": "",
+    "sequelize": "",
+    "simple-git": "",
+    "sqlite3": "",
+    "string-similarity": "",
+    "totp-generator": "",
+    "uniqid": "^5.4.0",
+    "wikijs": "^6.4.1",
+    "ytdl-core": "^4.8.3"
+  },
+  "bugs": {
+    "url": "https://github.com/Nguyenblur/devices/issues"
+  },
+  "homepage": "https://github.com/Nguyenblur/devices#readme",
+  "keywords": [
+    "nguyenblue"
+  ]
+}
